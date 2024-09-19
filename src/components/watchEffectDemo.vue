@@ -28,6 +28,7 @@ watchEffect(() => {
 <template>
   <div class="watchEffect-page">
     <h1>feature01</h1>
+    <h1>feature02</h1>
     <h2>需求:</h2>
     <h2>当前水温:{{ temp }}℃</h2>
     <h2>当前水位:{{ height }}CM</h2>
